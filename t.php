@@ -26,35 +26,39 @@
 
 //         }echo "符合的有 ".$match." 個字";
 // }
-include "kMatch.php";
-$n1=87654321;
-$n2=77754321;
-$n3=[11154321,11654321,11114321,11111321];
+// include "kMatch.php";
+// $n1=87654321;
+// $n2=77754321;
+// $n3=[11154321,11654321,11114321,11111321];
 
-$prize=kMatch($n1,$n2);
-
-
+// $prize=kMatch($n1,$n2);
 
 
-switch ($prize) {
-    case 8:
-      echo "恭喜妳中頭獎! ".$n2;
-      break;
-    case 7:
-      echo "恭喜妳中 二獎! ".$n2;
-      break;
-    case 6:
-      echo "恭喜妳中 三獎! ".$n2;
-      break;
-    case 5:
-      echo "恭喜妳中 四獎! ".$n2;
-      break;
-    case 4:
-      echo "恭喜妳中 五獎! ".$n2;
-      break;
-    case 3:
-      echo "恭喜妳中 六獎! ".$n2;
-      break;
+
+
+// switch ($prize) {
+//     case 8:
+//       echo "恭喜妳中頭獎! ".$n2;
+//       break;
+//     case 7:
+//       echo "恭喜妳中 二獎! ".$n2;
+//       break;
+//     case 6:
+//       echo "恭喜妳中 三獎! ".$n2;
+//       break;
+//     case 5:
+//       echo "恭喜妳中 四獎! ".$n2;
+//       break;
+//     case 4:
+//       echo "恭喜妳中 五獎! ".$n2;
+//       break;
+//     case 3:
+//       echo "恭喜妳中 六獎! ".$n2;
+//       break;
     
-  }
+//   }
+
+
+
+
 ?>
