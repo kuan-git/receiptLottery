@@ -1,0 +1,8 @@
+統一發票紀錄與對獎
+http://220.128.133.15/mackliu/10802/invoice/index.html
+
+當期發票
+http://220.128.133.15/mackliu/10802/invoice/invoice_list.php
+
+對獎
+http://220.128.133.15/mackliu/10802/invoice/query_award.php

@@ -36,27 +36,27 @@
 
 
 
-// switch ($prize) {
-//     case 8:
-//       echo "恭喜妳中頭獎! ".$n2;
-//       break;
-//     case 7:
-//       echo "恭喜妳中 二獎! ".$n2;
-//       break;
-//     case 6:
-//       echo "恭喜妳中 三獎! ".$n2;
-//       break;
-//     case 5:
-//       echo "恭喜妳中 四獎! ".$n2;
-//       break;
-//     case 4:
-//       echo "恭喜妳中 五獎! ".$n2;
-//       break;
-//     case 3:
-//       echo "恭喜妳中 六獎! ".$n2;
-//       break;
+switch ($prize) {
+    case 8:
+      echo "恭喜妳中頭獎! ".$n2;
+      break;
+    case 7:
+      echo "恭喜妳中 二獎! ".$n2;
+      break;
+    case 6:
+      echo "恭喜妳中 三獎! ".$n2;
+      break;
+    case 5:
+      echo "恭喜妳中 四獎! ".$n2;
+      break;
+    case 4:
+      echo "恭喜妳中 五獎! ".$n2;
+      break;
+    case 3:
+      echo "恭喜妳中 六獎! ".$n2;
+      break;
     
-//   }
+  }
 
 
 
